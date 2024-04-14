@@ -3,19 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Website Game</title>
+    <title>INDOGAME</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
-
-<!-- Bagian Header -->
 <header class="bg-dark text-white py-4">
     <div class="container text-center">
         <h1>Welcome to IndoGame</h1>
     </div>
 </header>
-
-<!-- Bagian Navigasi -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container">
         <!-- Tombol hamburger untuk tampilan mobile -->
@@ -56,19 +52,14 @@
                 <img src="https://awsimages.detik.net.id/community/media/visual/2023/04/02/game-tanah-air-troublemaker-resmi-rilis-diskon-20-di-steam_169.jpeg?w=600&q=90"
                 class="d-block w-100" alt="..." style="max-height: 500px;">
                 <div class="carousel-caption d-none d-md-block">
-                    <h5>Discover the World of Gaming</h5>
-                    <p>Explore our collection of exciting games and immerse yourself in thrilling adventures.</p>
                 </div>
             </div>
             <div class="carousel-item">
                 <img src="https://awsimages.detik.net.id/community/media/visual/2022/11/10/2-game-lokal-ini-akan-rilis-di-ps4-dan-ps5-pada-tahun-2023_169.png?w=600&q=90"
                 class="d-block w-100" alt="..." style="max-height: 500px;">
                 <div class="carousel-caption d-none d-md-block">
-                    <h5>Discover the World of Gaming</h5>
-                    <p>Explore our collection of exciting games and immerse yourself in thrilling adventures.</p>
                 </div>
             </div>
-            <!-- Tambahkan gambar-gambar tambahan di sini sesuai kebutuhan -->
         </div>
     </div>  
 </section>
@@ -146,14 +137,13 @@
 </section>
 
 
-<!-- Bagian Footer -->
+
 <footer class="bg-dark text-white py-3">
     <div class="container text-center">
         <p>&copy; 2024 Website Game. All rights reserved.</p>
     </div>
 </footer>
 
-<!-- Script Bootstrap -->
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js"></script>
 </body>
